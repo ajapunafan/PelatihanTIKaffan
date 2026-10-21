@@ -1,4 +1,4 @@
 const tombolhalo = document.getElementById('halole');
-tombolhalo.assEventListener('click', function(){
+tombolhalo.addEventListener('click', function(){
   alert('halole, apakabar le?');
 ));
