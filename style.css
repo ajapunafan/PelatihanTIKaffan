@@ -11,4 +11,9 @@ body {
   background-color: white;
   border-radius: 50px
   box-shadow: 0 8px 16px #000022;
+  text-align: center;
+}
+.kartu-profil img{
+  width: 300px
+  border radius: 50%
 }
