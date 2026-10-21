@@ -9,11 +9,11 @@ body {
   margin: 75px auto;
   padding: 35px;
   background-color: white;
-  border-radius: 50px
+  border-radius: 50px;
   box-shadow: 0 4px 8px #000022;
   text-align: center;
 }
 .kartu-profil img{
-  width: 300px
-  border radius: 50%
+  width: 300px;
+  border radius: 50%;
 }
